@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BinarySearchTest",
+            "request": "launch",
+            "mainClass": "code.chapter_2.BinarySearchTest",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyBinarySearch",
+            "request": "launch",
+            "mainClass": "code.chapter_2.MyBinarySearch",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SortTest",
+            "request": "launch",
+            "mainClass": "code.chapter_2.SortTest",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        }
+    ]
+}
