@@ -1,12 +1,15 @@
 # AlgorithmLearning
 
 ## 目录:
-### chapter1:数组和链表
-练习:
-1. https://leetcode.com/problems/reverse-linked-list/  
-2. https://leetcode.com/problems/swap-nodes-in-pairs  
-3. https://leetcode.com/problems/linked-list-cycle  
-4. https://leetcode.com/problems/linked-list-cycle-ii  
-5. https://leetcode.com/problems/reverse-nodes-in-k-group/
 
-### chapter2:
+### chapter1:数组和链表
+
+
+### chapter2:排序和二分查找
+
+
+### 资料
+
+程杰 大话数据结构
+
+王争 数据结构与算法之美
