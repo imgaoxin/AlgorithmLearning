@@ -29,6 +29,9 @@
 
 * 双向链表 + 哈希表
 
+https://www.jianshu.com/p/b1ab4a170c3c
+https://leetcodecn.com/problems/lru-cache 
+
 * 常见缓存淘汰策略
 
 先进先出策略 FIFO（First In，First Out）

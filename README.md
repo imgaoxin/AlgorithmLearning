@@ -1,14 +1,18 @@
 # AlgorithmLearning
 
-## 目录:
+## 目录
 
-### chapter1:数组和链表
+### code
 
+数据结构和算法实现代码
 
-### chapter2:排序和二分查找
+### doc
 
+数据结构和算法概念
 
 ### 资料
+
+LeetCode https://leetcode-cn.com/
 
 程杰 大话数据结构
 

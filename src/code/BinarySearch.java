@@ -1,6 +1,6 @@
-package code.chapter_2;
+package code;
 
-public class BinarySearchTest {
+public class BinarySearch {
 
     public static void main(String[] args) {
         int[] arr = new int[] { 2, 8, 9, 13, 66, 999 };

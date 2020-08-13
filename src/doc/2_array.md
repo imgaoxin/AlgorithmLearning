@@ -28,3 +28,9 @@
 在对应位置用新数据覆盖掉原数据，这样就是O(1)时间复杂度；
 如果不追求内存空间连续性，那在删除时把对应位置记录下来，在数组没有空间存储数据时再触发删除操作，
 把标记位置一次删除（或直接在标记位置分配空间），大大提升了效率。
+
+### LeetCode 实战
+1）https://leetcode-cn.com/problems/container-with-most-water/
+2）https://leetcode-cn.com/problems/move-zeroes/
+3）https://leetcode.com/problems/climbing-stairs/
+4）https://leetcode-cn.com/problems/3sum/

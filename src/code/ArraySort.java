@@ -1,6 +1,6 @@
-package code.chapter_2;
+package code;
 
-public class SortTest {
+public class ArraySort {
     public static void main(String[] args) {
         // 待排序数组
         int[] arr = new int[] { 1, 2, 99, 23, 5, 123, 67, 4, 9, 9, 10, 24, 66, 44, 22, 88 };
@@ -31,7 +31,7 @@ public class SortTest {
 
     }
 
-    /*
+      /*
      * O(n)时间复杂度查找第K大元素
      */
     private static int searchBigK(int[] arr, int n, int k) {
@@ -60,7 +60,7 @@ public class SortTest {
         }
         return arr[p];
     }
-
+    
     /*
      * 快速排序
      */
@@ -130,7 +130,7 @@ public class SortTest {
         }
 
         // 递推公式
-        int mid = (i + j) / 2;
+        int mid = i + ((j - i) >> 1);
         mergeSortCore(arr, i, mid);
         mergeSortCore(arr, mid + 1, j);
         merge(arr, i, mid, j);
@@ -262,6 +262,9 @@ public class SortTest {
         }
     }
 
+    /**
+     * 输出数组数据
+     */
     private static void printArray(int[] arr) {
         StringBuilder s = new StringBuilder("[ ");
         for (int i : arr) {

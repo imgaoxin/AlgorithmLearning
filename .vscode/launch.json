@@ -2,6 +2,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - TT",
+            "request": "launch",
+            "mainClass": "code.chapter_2.TT",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TTt",
+            "request": "launch",
+            "mainClass": "code.chapter_2.TTt",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test111",
+            "request": "launch",
+            "mainClass": "code.chapter_2.Test111",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DP2",
+            "request": "launch",
+            "mainClass": "code.chapter_2.DP2",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Sort2",
+            "request": "launch",
+            "mainClass": "code.chapter_2.Sort2",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DPTest",
+            "request": "launch",
+            "mainClass": "code.chapter_2.DPTest",
+            "projectName": "AlgorithmLearning_8e3b3bfd"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - BinarySearchTest",
             "request": "launch",
             "mainClass": "code.chapter_2.BinarySearchTest",
